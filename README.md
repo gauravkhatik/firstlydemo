@@ -1,3 +1,3 @@
 # firstlydemo
 This is my first repository
-Zeal College Of Engg.
+Zeal College Of Engg. Narhe
